@@ -15,7 +15,7 @@ El código fuente de SalesAnalytics está **completamente disponible** para su r
 - ✅ **Acceso total al código**: Puedes revisar, auditar y estudiar el código fuente.
 - ✅ **Uso controlado**: El código puede ser utilizado en entornos de desarrollo, pruebas o producción bajo términos específicos.
 - ✅ **Modificaciones permitidas**: Puedes adaptar el código a tus necesidades específicas.
-- ✅ **Distribución restringida**: La redistribución del código requiere autorización expresa.
+
 
 ---
 
@@ -31,12 +31,8 @@ El código fuente de SalesAnalytics está **completamente disponible** para su r
 - **Incluye**: Repositorio privado con el código fuente, documentación básica.
 - **Restricciones**: No uso en producción sin acuerdo adicional.
 
-### 3. 🚀 Implementación con Soporte
-- **Descripción**: Uso del código con acompañamiento técnico del equipo de SalesAnalytics.
-- **Incluye**: Código fuente, implementación guiada, soporte técnico, actualizaciones.
-- **Restricciones**: El soporte está sujeto a términos de servicio.
 
-### 4. 🔧 Desarrollo de Extensiones
+### 3. 🔧 Desarrollo de Extensiones
 - **Descripción**: Creación de módulos o extensiones sobre la base de SalesAnalytics.
 - **Incluye**: Acceso a APIs y documentación para desarrolladores.
 - **Restricciones**: Las extensiones deben ser compatibles con la licencia original.
