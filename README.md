@@ -2,7 +2,7 @@
 
 ## 🌐 Proyectos Disponibles
 
-Nuestros proyectos son plataformas desarrolladas con tecnologías modernas que ponen a disposición de empresas y desarrolladores su código fuente completo bajo diferentes modalidades de acceso.
+Nuestros proyectos son plataformas desarrolladas con tecnologías que ponen a disposición de empresas y desarrolladores su código fuente completo bajo diferentes modalidades de acceso.
 
 ---
 
