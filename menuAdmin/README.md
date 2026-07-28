@@ -118,9 +118,49 @@ El backend Spring Boot se despliega en **Render** conectado directamente a tu re
 2. Selecciona el repositorio de MenuAdmin-Backend
 
 
-## Visita Previa
-https://menuadmin.com 
+## Visita Previa de MenuAdmin
+🔗 **https://menuadmin.com**
+
 Para ver la plataforma en acción y descubrir cómo puede transformar tu negocio de restauración.
+
+---
+
+## 💰 Código Fuente Disponible
+
+El código fuente completo de MenuAdmin estará disponible en su totalidad para aquellos que deseen acceder a él mediante el establecimiento de un **aporte monetario** que permita financiar el desarrollo continuo de la plataforma.
+
+### ¿Qué incluye el acceso al código fuente?
+
+- 📂 **Código completo**: Frontend (Next.js) y Backend (Spring Boot)
+- 🗄️ **Scripts de base de datos**: Esquemas y migraciones para PostgreSQL
+- 🐳 **Configuración Docker**: Dockerfiles y docker-compose para despliegue
+- 📄 **Documentación técnica**: Guías de instalación y configuración
+- 🔧 **Configuraciones**: Entornos de desarrollo y producción
+
+### Beneficios de adquirir el código fuente
+
+| Beneficio | Descripción |
+|-----------|-------------|
+| **Propiedad total** | El código se convierte en un activo de tu organización |
+| **Personalización** | Adapta la plataforma a tus necesidades específicas modificando el codigo |
+| **Despliegue propio** | Instala en tu propia infraestructura |
+| **Sin dependencias** | Independencia total de terceros |
+
+
+### Modalidades de Acceso
+
+1. **Licencia Individual**: Para emprendedores y pequeños negocios
+2. **Licencia Empresarial**: Para organizaciones que deseen implementar la solución internamente
+3. **Licencia de Desarrollo**: Para equipos que deseen extender la funcionalidad
+
+### Proceso de Adquisición
+
+
+1. 📋 Define la modalidad de uso
+2. 💰 Realiza el aporte monetario
+3. 📥 Acceso al repositorio o sitio de descarga
+
+---
 
 ## 📞 Contacto
 
