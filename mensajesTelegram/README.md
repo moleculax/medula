@@ -1,4 +1,4 @@
-# 📨 Sistema de Notificaciones por Telegram
+# 📨 Notificaciones Bot Telegram
 
 ---
 ![Sistema de Notificaciones Telegram](telegramphone.png)
@@ -169,9 +169,9 @@ Para consultas sobre el sistema de notificaciones:
 
 
 - 🌐 Web: https://moleculaxapp.vercel.app
-- 💬 Telegram: http://pdfhand2.pythonanywhere.com/contactosTelegram/
+- 💬 Telegram: https://moleculaxapp.vercel.app/telegramContact
 
 ---
 
-*Moleculax - Sistema de Notificaciones por Telegram*
+*Moleculax - Notificaciones por Bot - Telegram*
 *Transformando datos en decisiones inteligentes*
