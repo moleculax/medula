@@ -44,14 +44,6 @@
 | **python-dotenv** | 1.0.0+ | ![Dotenv](https://img.shields.io/badge/Dotenv-1.0.0%2B-lightblue) | Manejo de variables de entorno |
 
 
-## Instalacion
 
-### 1. Clonar el repositorio
-
-```bash
-git clone https://github.com/moleculax/taskEngine.git
-cd taskEngine
-
-```
 
 Desarrollado: http://moleculaxapp.vercel.app
