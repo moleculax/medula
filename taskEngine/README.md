@@ -44,6 +44,6 @@
 | **python-dotenv** | 1.0.0+ | ![Dotenv](https://img.shields.io/badge/Dotenv-1.0.0%2B-lightblue) | Manejo de variables de entorno |
 
 
-
+**Para el codigo fuente previo acuerdo contactenos.**
 
 Desarrollado: http://moleculaxapp.vercel.app
